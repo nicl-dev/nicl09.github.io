@@ -33,7 +33,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Fluent
 
     interests:
       - item: Diving
@@ -48,12 +48,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello and nice to meet you! My name is Niclas. I started my career in IT as an apprentice IT system technician. 
+      But my dream was always to move into the software development rather than the hardware field of our profession. 
+
+      That's why I decided to continue my career at msg nexinsure ag in Hamburg. In my first year at the company they gave 
+      me the opportunity to learn many aspects about software development. This allowed me to discover my passion for the 
+      DevOps role which I transitioned to after my first year.
+
+      After a couple of years in this role I am now looking forward to a new challenge to make the next step in my development.
 education:
     - degree: IT systems technician
       university: Heinrich von Allwörden GmbH
@@ -68,7 +70,7 @@ education:
           - Bullet point
 experiences:
     - role: DevOps Engineer
-      time: 2021 - Present
+      time: 2020 - Present
       company: msg nexinsure ag, Hamburg
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -83,7 +85,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Associate IT Consultant
-      time: 2019 - 2021
+      time: 2019 - 2020
       company: msg nexinsure ag, Hamburg
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -155,11 +157,17 @@ skills:
       - name: JBoss
         level: 90%
 
+      - name: VSCode
+        leve: 90%
+
+      - name: Maven
+        level: 85%
+
       - name: Ansible
-        level: 80%
+        level: 85%
 
       - name: Prometheus / Grafana
-        level: 80%
+        level: 85%
 
       - name: Docker
         level: 75%
