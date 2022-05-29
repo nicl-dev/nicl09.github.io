@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: niclas.behrendt@nicl.dev
-    phone: 0152 26108437
+    phone: +49 152 261 084 37
     citizenship:
     website: cv.nicl.dev #do not add http://
     linkedin: niclas-behrendt
@@ -51,11 +51,11 @@ career-profile:
       Hello and nice to meet you! My name is Niclas. I started my career in IT as an apprentice IT system technician. 
       But my dream was always to move into the software development rather than the hardware field of our profession. 
 
-      That's why I decided to continue my career at msg nexinsure ag in Hamburg. In my first year at the company they gave 
-      me the opportunity to learn many aspects about software development. This allowed me to discover my passion for the 
-      DevOps role which I transitioned to after my first year.
+      That's why I decided to continue my career at msg nexinsure ag in Hamburg. In my first year at the company i was given 
+      the opportunity to learn many aspects about software development. This allowed me to discover my passion for the 
+      DevOps role where I transitioned to after my first year.
 
-      After a couple of years in this role I am now looking forward to a new challenge to make the next step in my development.
+      After a couple of years in this role I am now looking forward to a new challenge and want to make the next step in my development.
 education:
     - degree: IT systems technician
       university: Heinrich von Allwörden GmbH
@@ -99,37 +99,10 @@ experiences:
       time: 2015 - 2019
       company: Heinrich von Allwörden GmbH, Mölln
       details: |
-        During my 4 years at the company I was responsible for the office and store IT infrastructure. This meant
-        working 
-          - Administrated the inhouse IT infrastructure and network (Windows).
-          - Bullet point
-projects:
-    title: Further Education & Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        During my 4 years at the company I was working for the office and store IT infrastructure. This meant
+        administrating the Windows infrastructure of the company 
+          - Administrated the inhouse IT infrastructure and network.
+          - 
 publications:
     title: Certifications
     intro: 
@@ -157,8 +130,8 @@ skills:
       - name: JBoss
         level: 90%
 
-      - name: VSCode
-        leve: 90%
+      - name: Visual Studio Code
+        level: 90%
 
       - name: Maven
         level: 85%
@@ -191,6 +164,9 @@ skills:
         level: 60%
 
       - name: Database Administration (Postgres, DB2, Oracle)
+        level: 50%
+
+      - name: Networking
         level: 50%
 
       - name: Groovy
