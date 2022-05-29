@@ -154,20 +154,51 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Git
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: JBoss
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Ansible
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Docker
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Bash
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: Prometheus
+        level: 80%
+
+      - name: Grafana
+        level: 80%
+
+      - name: Alertmanager
+        level: 80%
+
+      - name: Linux
+        level: 70%
+
+      - name: Python
         level: 60%
+
+      - name: Kubernetes
+        level: 60%
+
+      - name: Postgres
+        level: 50%
+
+      - name: DB2
+        level: 50%
+
+      - name: Oracle DB
+        level: 50%
+
+      - name: Groovy
+        level: 30%
+
+      - name: Helm
+        level: 15%
+
