@@ -73,9 +73,17 @@ experiences:
         Afterwards I was commissioned to migrate our entire code base from Subversion to Git. We succesfully migrated more than 300 repostiories from SVN to Git.
         We took that opportunity to also move on from Jenkins Jobs to Jenkins Pipelines, including our own Jenkins Library. 
 
-          - Bullet point
-          - Bullet point
-          - Ansible Automation for our build infrastructure
+          - Development of Kubernetes & helm manifests
+          - ArgoCD
+          - Deployment Pipeline (Maven, Jenkins Library, Groovy, Bash, Nexus)
+          - Ansible Automation
+          - Continuous Integration
+          - Branching & Releasing
+          - Building Docker Images for our software builds and application servers
+          - Grafana/Prometheus monitoring and alerting with alert manager
+          - Administrating hundreds of AppServers (JBoss/Wildfly, WebSphere)
+          - Database Administration (PostgreSQL, Oracle, DB2)
+          - Continuous Migration from SVN to Git (Bitbucket) of 1,5M+ commits and more than 300 Git Repositories. Including infrastructure (Nexus/Jenkins/Bitbucket etc.)
     - role: Associate IT Consultant
       time: 2019 - 2020
       company: msg nexinsure ag, Hamburg
