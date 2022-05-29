@@ -24,7 +24,7 @@ sidebar:
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: behren
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
@@ -129,26 +129,21 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Massachusetts Institute of Technology 6.00.1x: Introduction to Computer Science and Programming Using Python"
+        link: "https://courses.edx.org/certificates/73489987bc054b05b7ba0b6450275540"
+        authors: MITx, W. Eric L. Grimson
+        conference: October 29, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "In Progress: Certified Kubernetes Application Developer"
+        link: "https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/"
+        authors: Linux Foundation
+        conference: "Due September 2022"
 
 skills:
     title: Skills &amp; Proficiency
@@ -187,6 +182,9 @@ skills:
       - name: Kubernetes
         level: 60%
 
+      - name: Websphere
+        level: 60%
+
       - name: Postgres
         level: 50%
 
@@ -201,4 +199,3 @@ skills:
 
       - name: Helm
         level: 15%
-
