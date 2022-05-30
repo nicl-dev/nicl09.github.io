@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /assets/files/cv_nicl_dev.pdf
+    pdf: cv_nicl_dev.pdf
 
     languages:
       - idiom: German
