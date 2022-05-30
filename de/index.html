@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+
+{% include de/career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include de/education.html %}
+{% endunless %}
+
+{% include de/experiences.html %}
+
+{% include de/projects.html %}
+
+{% include de/publications.html %}
+
+{% include de/skills.html %}
