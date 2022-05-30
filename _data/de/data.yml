@@ -1,0 +1,194 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Niclas Behrendt
+    tagline: DevOps Engineer
+    avatar: me.jpg
+
+    # Sidebar links
+    email: niclas.behrendt@nicl.dev
+    phone: +49 152 261 084 37
+    citizenship:
+    website: Englischer Lebenslauf #do not add http://
+    linkedin: niclas-behrendt
+    xing: Niclas_Behrendt
+    github: nicl09
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars: 
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: cv_nicl_dev_de.pdf
+
+    languages:
+      - idiom: Deutsch 
+        level: Muttersprache 
+
+      - idiom: Englisch
+        level: Fließend
+
+    interests:
+      - item: Tauchen
+        link:
+
+      - item: Mountainbiken
+        link:
+
+      - item: Kochen
+        link:
+
+career-profile:
+    title: Karriere 
+    summary: |
+      Hello, and nice to meet you! My name is Niclas. I started my career in IT as an apprentice IT system technician. 
+      However, my dream was always to move into the software development rather than the hardware field of our profession. 
+
+      That's why I decided to continue my career at msg nexinsure ag in Hamburg. In my first year at the company I was given 
+      the opportunity to learn many aspects about software development. This allowed me to discover my passion for the 
+      DevOps role where I transitioned to after my first year.
+
+      After a couple of years in this role I am now looking forward to a new challenge and want to make the next step in my development.
+education:
+    - degree: IT systems technician
+      university: Heinrich von Allwörden GmbH
+      time: 2016 - 2019
+      details: 
+experiences:
+    - role: DevOps Engineer
+      time: 2020 - Present
+      company: msg nexinsure ag, Hamburg
+      details: |
+        2020 I started shifting into more of a DevOps role. I was given the opportunity to automate our application server installation. That meant automating
+        the installation of our own software, corresponding databases and a couple of third party applications. The entire project was developed with Ansible. 
+        These roles are still in use today and our basement for our entire on-premise automation.
+
+        Afterwards I was commissioned to migrate our entire code base from Subversion to Git. We succesfully migrated more than 300 repostiories from SVN to Git.
+        We took that opportunity to also move on from Jenkins Jobs to Jenkins Pipelines, including our own Jenkins Library. 
+
+        During and after the continuous migration from SVN to Git we also started shifting into the container and Kubernetes world. This meant developing Kubernetes
+        manifests and Docker images for our application and administrating a small rancher cluster with a couple of dozen nodes.
+
+          - Development of Kubernetes & Helm manifests
+          - ArgoCD
+          - Deployment pipeline (Maven, Jenkins Library, Groovy, Bash, Nexus)
+          - Ansible automation
+          - Continuous integration
+          - Branching & Releasing
+          - Building Docker images for our software builds and application servers
+          - Grafana/Prometheus monitoring and alerting with alert manager
+          - Administrating hundreds of application servers (JBoss/Wildfly, WebSphere)
+          - Database administration (PostgreSQL, Oracle, DB2)
+          - Continuous migration from SVN to Git (Bitbucket) of 1.5M+ commits and more than 300 Git Repositories. Including the entire history and infrastructure (Nexus/Jenkins/Bitbucket etc.)
+    - role: Associate IT Consultant
+      time: 2019 - 2020
+      company: msg nexinsure ag, Hamburg
+      details: |
+        My first year mainly consisted of learning the software development process from scratch. Our team was involved in every part of the process. 
+        From commit and push to the repository, the continuous integration, through artifact repository and app server deployment to delivery to the customer.
+        We also installed and administrated the different test, dev and prod stages and administrated the entire infrastructure related to the development process.
+        
+        In the second half of my first year I decided to rebuild our monitoring stack and used a Prometheus/Grafana/Alertmanager stack for this purpose. This stack is still active
+        today and used by more than 400 colleagues.  
+          - Installation, configuration, administration and troubleshooting for hundreds of Jboss/Wildfly/WebSphere/Liberty Application Servers on Linux and Windows machines
+          - Installation, configuration, administration and troubleshooting for PostgresSQL, Oracle and DB2
+          - CI Pipelines with Jenkins and SVN
+          - Monitoring the infrastructure and alert management with Prometheus/Alertmanager/Grafana
+          - Automated releasing and branching with Maven, Git, SVN, Bash Scripting, Jenkins and Nexus Artefact Repository. Including databases.
+    - role: IT systems technician
+      time: 2015 - 2019
+      company: Heinrich von Allwörden GmbH, Mölln
+      details: |
+        During my 4 years at the company I was responsible for the administration of the Windows office infrastructure.
+        We also managed the factory network and cash systems in more than 400 stores.
+          - Windows administration
+          - Factory network supervision
+          - Vectron cash system administration and installation (remote and in person)
+          - Succesfully transitioned the entire office infrastructure from Windows to Igel OS virtual desktops (finals project)
+publications:
+    title: Zertifikate 
+    intro: 
+    papers:
+      - title: "Massachusetts Institute of Technology 6.00.1x: Introduction to Computer Science and Programming Using Python"
+        link: "https://courses.edx.org/certificates/73489987bc054b05b7ba0b6450275540"
+        authors: MITx, W. Eric L. Grimson
+        conference: October 29, 2021
+
+      - title: "In Progress: Certified Kubernetes Application Developer"
+        link: "https://www.cncf.io/certification/ckad/"
+        authors: Linux Foundation, Cloud Native Computing Foundation
+        conference: "Due September 2022"
+
+skills:
+    title: Skills &amp; Erfahrungen
+
+    toolset:
+      - name: Jenkins
+        level: 90%
+
+      - name: Git
+        level: 90%
+
+      - name: JBoss
+        level: 90%
+
+      - name: Visual Studio Code
+        level: 90%
+
+      - name: Maven
+        level: 85%
+
+      - name: Ansible
+        level: 85%
+
+      - name: Prometheus / Grafana
+        level: 85%
+
+      - name: Agile Development / Scrum
+        level: 75%
+
+      - name: Docker
+        level: 75%
+
+      - name: Nexus Repository
+        level: 75%
+
+      - name: Linux / Shell
+        level: 70%
+
+      - name: Bash scripting
+        level: 70%
+
+      - name: Python
+        level: 60%
+
+      - name: Kubernetes
+        level: 60%
+
+      - name: Websphere
+        level: 60%
+
+      - name: Postgres
+        level: 50%
+
+      - name: DB2
+        level: 50%
+
+      - name: Oracle DB
+        level: 50%
+
+      - name: Networking
+        level: 50%
+
+      - name: Groovy
+        level: 30%
+
+      - name: Helm
+        level: 30%

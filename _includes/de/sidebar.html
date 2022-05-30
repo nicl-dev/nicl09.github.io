@@ -1,0 +1,33 @@
+{% assign sidebar = site.data.de.data.sidebar %}
+<div class="sidebar-wrapper">
+
+  <div class="profile-container">
+
+    {% if sidebar.name %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% endif %}
+
+    {% if sidebar.name %}
+    <h1 class="name">{{ sidebar.name }}</h1>
+    {% endif %}
+
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    {% endif %}
+
+  </div><!--//profile-container-->
+
+  {% include de/contact.html %}
+
+  {% if sidebar.education %}
+    {% include de/education.html %}
+  {% endif %}
+
+  {% include de/language.html %}
+  {% include de/interests.html %}
+
+  {% if sidebar.about %}
+    {% include de/about.html %}
+  {% endif %}
+
+</div><!--//sidebar-wrapper-->
