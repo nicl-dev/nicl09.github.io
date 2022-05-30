@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Niclas Behrendt
-    tagline: DevOps Engineer
+    tagline: DevOps Ingenieur
     avatar: me.jpg
 
     # Sidebar links
@@ -48,22 +48,22 @@ sidebar:
 career-profile:
     title: Karriere 
     summary: |
-      Hello, and nice to meet you! My name is Niclas. I started my career in IT as an apprentice IT system technician. 
-      However, my dream was always to move into the software development rather than the hardware field of our profession. 
+      Moin und schön sie / dich kennenzulernen! Mein Name ist Niclas. Ich habe meine IT-Karriere mit einer Ausbildung zum IT-Systemelektroniker gestartet.
+      Es war jedoch schon immer mein Traum eher in der Softwareentwicklung als im Hardwarebereich zu arbeiten.
 
-      That's why I decided to continue my career at msg nexinsure ag in Hamburg. In my first year at the company I was given 
-      the opportunity to learn many aspects about software development. This allowed me to discover my passion for the 
-      DevOps role where I transitioned to after my first year.
+      Daher habe ich mich im Anschluss an meine Ausbildung dazu entschlossen, meine Karriere bei der msg nexinsure ag in Hamburg fortzusetzen. In meinem ersten Jahr
+      in der Firma wurde mir die Gelegenheit geboten, mich in viele Aspekte der Softwareentwicklung einzuarbeiten. Das hat mir ermöglicht, meine Leidenschaft für die 
+      DevOps Rolle zu entdecken, die ich nach meinem ersten Jahr in der Firma übernommen habe.
 
-      After a couple of years in this role I am now looking forward to a new challenge and want to make the next step in my development.
+      Nach einigen Jahren in dieser Rolle freue ich mich nun auf eine neue Herausforderung und möchte den nächsten Schritt in meiner Entwicklung gehen.
 education:
-    - degree: IT systems technician
+    - degree: IT Systemelektroniker
       university: Heinrich von Allwörden GmbH
       time: 2016 - 2019
       details: 
 experiences:
-    - role: DevOps Engineer
-      time: 2020 - Present
+    - role: DevOps Ingeniuer
+      time: 2020 - Heute
       company: msg nexinsure ag, Hamburg
       details: |
         2020 I started shifting into more of a DevOps role. I was given the opportunity to automate our application server installation. That meant automating
@@ -121,13 +121,13 @@ publications:
         authors: MITx, W. Eric L. Grimson
         conference: October 29, 2021
 
-      - title: "In Progress: Certified Kubernetes Application Developer"
+      - title: "In Arbeit: Certified Kubernetes Application Developer (CKAD)"
         link: "https://www.cncf.io/certification/ckad/"
         authors: Linux Foundation, Cloud Native Computing Foundation
-        conference: "Due September 2022"
+        conference: "Fällig September 2022"
 
 skills:
-    title: Skills &amp; Erfahrungen
+    title: Fähigkeiten &amp; Kenntnisse 
 
     toolset:
       - name: Jenkins
