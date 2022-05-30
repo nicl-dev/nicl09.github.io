@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Karriere 
     summary: |
-      Moin und schön sie / dich kennenzulernen! Mein Name ist Niclas. Ich habe meine IT-Karriere mit einer Ausbildung zum IT-Systemelektroniker gestartet.
+      Hallo und schön sie/dich kennenzulernen! Mein Name ist Niclas. Ich habe meine IT-Karriere mit einer Ausbildung zum IT-Systemelektroniker gestartet.
       Es war jedoch schon immer mein Traum eher in der Softwareentwicklung als im Hardwarebereich zu arbeiten.
 
       Daher habe ich mich im Anschluss an meine Ausbildung dazu entschlossen, meine Karriere bei der msg nexinsure ag in Hamburg fortzusetzen. In meinem ersten Jahr
@@ -91,27 +91,31 @@ experiences:
       time: 2019 - 2020
       company: msg nexinsure ag, Hamburg
       details: |
-        My first year mainly consisted of learning the software development process from scratch. Our team was involved in every part of the process. 
-        From commit and push to the repository, the continuous integration, through artifact repository and app server deployment to delivery to the customer.
-        We also installed and administrated the different test, dev and prod stages and administrated the entire infrastructure related to the development process.
-        
-        In the second half of my first year I decided to rebuild our monitoring stack and used a Prometheus/Grafana/Alertmanager stack for this purpose. This stack is still active
-        today and used by more than 400 colleagues.  
-          - Installation, configuration, administration and troubleshooting for hundreds of Jboss/Wildfly/WebSphere/Liberty Application Servers on Linux and Windows machines
-          - Installation, configuration, administration and troubleshooting for PostgresSQL, Oracle and DB2
-          - CI Pipelines with Jenkins and SVN
-          - Monitoring the infrastructure and alert management with Prometheus/Alertmanager/Grafana
-          - Automated releasing and branching with Maven, Git, SVN, Bash Scripting, Jenkins and Nexus Artefact Repository. Including databases.
-    - role: IT systems technician
+        Mein erstes Jahr bestand hauptsächlich daraus den Softwareentwicklungsprozess von Grund auf zu erlernen. Unser Team war dabei in jeden Teil des Prozesses involviert.
+        Vom ersten commit und push zum Repository, über Deployment in das Artefakt Repository und Deployment auf die Application-Server bis zur Auslieferung an den Kunden waren wir für
+        die komplette kontinuierliche Integration zuständig.
+        Außerdem haben wir mehrere hundert test, dev und prod stages sowie die gesamte für die Softwareentwicklung benötigte Infrastruktur installiert und administriert.
+
+        In der zweiten Hälfte meines ersten Jahres habe ich mich dazu entschieden unser Monitoring neu aufzubauen und dafür einen Stack aus Prometheus/Grafana/Alertmanager zu nutzen. Dieser Stack
+        ist auch heute noch aktiv und wird von mehr als 400 Kollegen genutzt.
+          - Installation, Konfiguration, Administration und Troubleshooting für hunderte von Jboss/Wildfly/WebSphere/Liberty Application Server auf Windows und Linux Maschinen
+          - Installation, Konfiguration, Administration und Troubleshooting für Postgres, Oracle und DB2 Datenbanken 
+          - CI Pipelines mit Jenkins, SVN und Bash
+          - Monitoring der Infrastruktur und Alertmanager mit Prometheus/Grafana/Alertmanager
+          - Automatisiertes Releasing und Branching mit Maven, Git SVN, Bash Scripting, Jenkins und Nexus Artefakt Repository, inklusive Datenbanken.
+    - role: IT Systemelektroniker
       time: 2015 - 2019
       company: Heinrich von Allwörden GmbH, Mölln
       details: |
-        During my 4 years at the company I was responsible for the administration of the Windows office infrastructure.
-        We also managed the factory network and cash systems in more than 400 stores.
-          - Windows administration
-          - Factory network supervision
-          - Vectron cash system administration and installation (remote and in person)
-          - Succesfully transitioned the entire office infrastructure from Windows to Igel OS virtual desktops (finals project)
+        Während meiner 4 Jahre bei Heinrich von Allwörden war ich hauptsächlich verantwortlich für die Administration der Windows Infrastruktur der Firma, sowie das
+        Netzwerk der Produktion.
+
+        Außerdem waren wir für das Kassensystem in mehr als 400 Verkaufsläden zuständig.
+
+          - Windows Administration
+          - Beaufsichtigung des Produktionsnetzwerks
+          - Vectron Kassensystem Administration und Installation (Remote und vor Ort)
+          - Erfolgreiche Umstellung der gesamten Büro-Infrastruktur von Windows auf virtualisierte Igel OS PCs (Abschlussprojekt).
 publications:
     title: Zertifikate 
     intro: 
@@ -119,7 +123,7 @@ publications:
       - title: "Massachusetts Institute of Technology 6.00.1x: Introduction to Computer Science and Programming Using Python"
         link: "https://courses.edx.org/certificates/73489987bc054b05b7ba0b6450275540"
         authors: MITx, W. Eric L. Grimson
-        conference: October 29, 2021
+        conference: Oktober 29, 2021
 
       - title: "In Arbeit: Certified Kubernetes Application Developer (CKAD)"
         link: "https://www.cncf.io/certification/ckad/"
@@ -127,7 +131,7 @@ publications:
         conference: "Fällig September 2022"
 
 skills:
-    title: Fähigkeiten &amp; Kenntnisse 
+    title: Fähigkeiten &amp; Kenntnisse (Relativ zueinander)
 
     toolset:
       - name: Jenkins
@@ -151,7 +155,7 @@ skills:
       - name: Prometheus / Grafana
         level: 85%
 
-      - name: Agile Development / Scrum
+      - name: Agile Entwicklung / Scrum
         level: 75%
 
       - name: Docker
@@ -164,6 +168,9 @@ skills:
         level: 70%
 
       - name: Bash scripting
+        level: 70%
+      
+      - name: vim
         level: 70%
 
       - name: Python
@@ -184,7 +191,7 @@ skills:
       - name: Oracle DB
         level: 50%
 
-      - name: Networking
+      - name: Netzwerke
         level: 50%
 
       - name: Groovy
