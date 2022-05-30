@@ -15,7 +15,7 @@ sidebar:
     email: niclas.behrendt@nicl.dev
     phone: +49 152 261 084 37
     citizenship:
-    website: cv.nicl.dev #do not add http://
+    website: German CV #do not add http://
     linkedin: niclas-behrendt
     xing: Niclas_Behrendt
     github: nicl09
@@ -24,9 +24,9 @@ sidebar:
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: behren
+    codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://nicl.tiiny.site/
+    pdf: /assets/files/cv_nicl_dev.pdf
 
     languages:
       - idiom: German
