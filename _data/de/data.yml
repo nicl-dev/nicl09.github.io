@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: cv_nicl_dev_de.pdf
+    pdf: /cv_nicl_dev_de.pdf
 
     languages:
       - idiom: Deutsch 
@@ -55,7 +55,7 @@ career-profile:
       bei der Firma wurde mir die Gelegenheit geboten, mich in viele Aspekte der Softwareentwicklung einzuarbeiten. Das hat mir ermöglicht, meine Leidenschaft für die 
       DevOps Rolle zu entdecken, die ich nach meinem ersten Jahr in der Firma übernommen habe und in der ich bis heute tätig bin.
 
-      Nach einigen Jahren in dieser Rolle freue ich mich nun auf eine neue Herausforderung und möchte den nächsten Schritt in meiner Entwicklung gehen.
+      Nach einigen Jahren in dieser Rolle freue ich mich nun auf eine neue Herausforderung und möchte den nächsten Schritt in meiner Entwicklung innerhalb dieser Rolle gehen.
 education:
     - degree: IT Systemelektroniker
       university: Heinrich von Allwörden GmbH
