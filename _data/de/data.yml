@@ -146,9 +146,6 @@ skills:
       - name: Visual Studio Code
         level: 90%
 
-      - name: Maven
-        level: 85%
-
       - name: Ansible
         level: 85%
 
@@ -172,6 +169,9 @@ skills:
       
       - name: vim
         level: 70%
+
+      - name: Maven
+        level: 60%
 
       - name: Python
         level: 60%
