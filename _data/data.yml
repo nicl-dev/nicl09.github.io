@@ -49,13 +49,13 @@ career-profile:
     title: Career Profile
     summary: |
       Hello, and nice to meet you! My name is Niclas. I started my career in IT as an apprentice IT system technician. 
-      However, my dream was always to move into the software development rather than the hardware field of our profession. 
+      However, my dream was always to move into software development rather than the hardware field of our profession. 
 
       That's why I decided to continue my career at msg nexinsure ag in Hamburg. In my first year at the company I was given 
       the opportunity to learn many aspects about software development. This allowed me to discover my passion for the 
-      DevOps role where I transitioned to after my first year.
+      DevOps role to which I transitioned to after my first year and what I am still working as today.
 
-      After a couple of years in this role I am now looking forward to a new challenge and want to make the next step in my development.
+      After a couple of years I am now looking forward to a new challenge and want to make the next step in my development in this role.
 education:
     - degree: IT systems technician
       university: Heinrich von Allwörden GmbH
@@ -75,7 +75,6 @@ experiences:
 
         During and after the continuous migration from SVN to Git we also started shifting into the container and Kubernetes world. This meant developing Kubernetes
         manifests and Docker images for our application and administrating a small rancher cluster with a couple of dozen nodes.
-
           - Development of Kubernetes & Helm manifests
           - ArgoCD
           - Deployment pipeline (Maven, Jenkins Library, Groovy, Bash, Nexus)
@@ -92,8 +91,9 @@ experiences:
       company: msg nexinsure ag, Hamburg
       details: |
         My first year mainly consisted of learning the software development process from scratch. Our team was involved in every part of the process. 
-        From commit and push to the repository, the continuous integration, through artifact repository and app server deployment to delivery to the customer.
-        We also installed and administrated the different test, dev and prod stages and administrated the entire infrastructure related to the development process.
+        From the first commit and push to the repository, through the following deployment to our artifact repository and the deployment to our different application servers to the delivery to our customers
+        we were responsible for the entire continuous integration.
+        We also installed and administrated the different test-, dev- and prod-stages and administrated the entire infrastructure related to our development process and build pipeline.
         
         In the second half of my first year I decided to rebuild our monitoring stack and used a Prometheus/Grafana/Alertmanager stack for this purpose. This stack is still active
         today and used by more than 400 colleagues.  
