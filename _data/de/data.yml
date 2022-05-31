@@ -91,10 +91,10 @@ experiences:
       time: 2019 - 2020
       company: msg nexinsure ag, Hamburg
       details: |
-        Mein erstes Jahr bestand hauptsächlich daraus den Softwareentwicklungsprozess von Grund auf zu erlernen. Unser Team war dabei in jeden Teil des Prozesses involviert.
-        Vom ersten commit und push zum Repository, über Deployment in das Artefakt Repository und Deployment auf die Application-Server bis zur Auslieferung an den Kunden waren wir für
-        die komplette kontinuierliche Integration zuständig.
-        Außerdem haben wir mehrere hundert test, dev und prod stages sowie die gesamte für die Softwareentwicklung benötigte Infrastruktur installiert und administriert.
+        Mein erstes Jahr bestand hauptsächlich daraus, den Softwareentwicklungsprozess von Grund auf zu erlernen. Unser Team war dabei in jeden Teil des Prozesses involviert.
+        Vom ersten Commit und Push ins Repository, über das anschließende Deployment in unser Artefakt Repository und das Deployment auf die verschiedenen Application-Server,
+        bis hin zur Auslieferung an den Kunden waren wir für die komplette kontinuierliche Integration zuständig.
+        Außerdem haben wir mehrere hundert Test-, Dev- und Prod-Stages sowie die Gesamte für die Softwareentwicklung benötigte Infrastruktur installiert und administriert.
 
         In der zweiten Hälfte meines ersten Jahres habe ich mich dazu entschieden unser Monitoring neu aufzubauen und dafür einen Stack aus Prometheus/Grafana/Alertmanager zu nutzen. Dieser Stack
         ist auch heute noch aktiv und wird von mehr als 400 Kollegen genutzt.
