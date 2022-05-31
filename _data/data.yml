@@ -178,6 +178,9 @@ skills:
       - name: Websphere
         level: 60%
 
+      - name: Helm
+        level: 50%
+
       - name: Postgres
         level: 50%
 
@@ -191,7 +194,4 @@ skills:
         level: 50%
 
       - name: Groovy
-        level: 30%
-
-      - name: Helm
         level: 30%

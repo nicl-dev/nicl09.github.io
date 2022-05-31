@@ -96,7 +96,7 @@ experiences:
         bis hin zur Auslieferung an den Kunden waren wir für die komplette kontinuierliche Integration zuständig.
         Außerdem haben wir mehrere hundert Test-, Dev- und Prod-Stages sowie die Gesamte für die Softwareentwicklung benötigte Infrastruktur installiert und administriert.
 
-        In der zweiten Hälfte meines ersten Jahres habe ich mich dazu entschieden unser Monitoring neu aufzubauen und dafür einen Stack aus Prometheus/Grafana/Alertmanager zu nutzen. Dieser Stack
+        In der zweiten Hälfte meines ersten Jahres habe ich mich dazu entschieden, unser Monitoring neu aufzubauen und dafür einen Stack aus Prometheus/Grafana/Alertmanager zu nutzen. Dieser Stack
         ist auch heute noch aktiv und wird von mehr als 400 Kollegen genutzt.
           - Installation, Konfiguration, Administration und Troubleshooting für hunderte von Jboss/Wildfly/WebSphere/Liberty Application Server auf Windows und Linux Maschinen
           - Installation, Konfiguration, Administration und Troubleshooting für Postgres, Oracle und DB2 Datenbanken 
@@ -182,6 +182,9 @@ skills:
       - name: Websphere
         level: 60%
 
+      - name: Helm
+        level: 50%
+
       - name: Postgres
         level: 50%
 
@@ -195,7 +198,4 @@ skills:
         level: 50%
 
       - name: Groovy
-        level: 30%
-
-      - name: Helm
         level: 30%
