@@ -66,7 +66,7 @@ experiences:
       time: 2020 - Present
       company: msg nexinsure ag, Hamburg
       details: |
-        2020 I started shifting into more of a DevOps role. I was given the opportunity to automate our application server installation. That meant automating
+        2020 I started shifting into my first DevOps role. I was given the opportunity to automate our application server installation. That meant automating
         the installation of our own software, corresponding databases and a couple of third party applications. The entire project was developed with Ansible. 
         These roles are still in use today and our basement for our entire on-premise automation.
 
@@ -127,7 +127,7 @@ publications:
         conference: "Due September 2022"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiency (relative to each other)
 
     toolset:
       - name: Jenkins
