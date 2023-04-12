@@ -140,59 +140,59 @@ publications:
       conference: "Due September 2022"
 
 skills:
-  title: Skills &amp; Proficiency (relative to each other)
+  title: Skills &amp; Proficiency
 
   toolset:
+    - name: Kubernetes
+      level: 90%
+
     - name: Jenkins
       level: 90%
 
     - name: Git
       level: 90%
 
-    - name: JBoss
-      level: 90%
-
-    - name: Visual Studio Code
-      level: 90%
-
-    - name: Ansible
-      level: 85%
-
     - name: Prometheus / Grafana
       level: 85%
 
-    - name: Agile Development / Scrum
-      level: 75%
+    - name: Google Cloud Platform
+      level: 80%
+
+    - name: Terraform
+      level: 80%
+
+    - name: Helm
+      level: 80%
 
     - name: Docker
       level: 75%
 
-    - name: Nexus Repository
-      level: 75%
+    - name: JBoss
+      level: 70%
 
-    - name: Linux / Shell
+    - name: Ansible
+      level: 70%
+
+    - name: Nexus Repository
+      level: 70%
+
+    - name: Linux
       level: 70%
 
     - name: Bash scripting
       level: 70%
 
-    - name: vim
-      level: 70%
-
     - name: Maven
+      level: 60%
+
+    - name: Agile Development / Scrum
       level: 60%
 
     - name: Python
       level: 60%
 
-    - name: Kubernetes
-      level: 60%
-
     - name: Websphere
       level: 60%
-
-    - name: Helm
-      level: 50%
 
     - name: Postgres
       level: 50%
@@ -201,9 +201,6 @@ skills:
       level: 50%
 
     - name: Oracle DB
-      level: 50%
-
-    - name: Networking
       level: 50%
 
     - name: Groovy
