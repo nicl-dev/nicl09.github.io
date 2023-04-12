@@ -129,7 +129,7 @@ publications:
   title: Certifications
   intro:
   papers:
-    - title: "In Progress: Certified Kubernetes Application Developer"
+    - title: "Certified Kubernetes Application Developer"
       link: "https://www.credly.com/badges/52451a3b-42a9-4185-9201-25b93ce67d2e/linked_in_profile"
       authors: Cloud Native Computing Foundation
       conference: September 11, 2022
