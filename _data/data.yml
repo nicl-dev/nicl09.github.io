@@ -129,15 +129,14 @@ publications:
   title: Certifications
   intro:
   papers:
+    - title: "In Progress: Certified Kubernetes Application Developer"
+      link: "https://www.credly.com/badges/52451a3b-42a9-4185-9201-25b93ce67d2e/linked_in_profile"
+      authors: Cloud Native Computing Foundation
+      conference: September 11, 2022
     - title: "Massachusetts Institute of Technology 6.00.1x: Introduction to Computer Science and Programming Using Python"
       link: "https://courses.edx.org/certificates/73489987bc054b05b7ba0b6450275540"
       authors: MITx, W. Eric L. Grimson
       conference: October 29, 2021
-
-    - title: "In Progress: Certified Kubernetes Application Developer"
-      link: "https://www.cncf.io/certification/ckad/"
-      authors: Linux Foundation, Cloud Native Computing Foundation
-      conference: "Due September 2022"
 
 skills:
   title: Skills &amp; Proficiency
