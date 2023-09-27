@@ -67,7 +67,7 @@ experiences:
     time: 2022 - present
     company: Tallence ag, Hamburg
     details: |
-      In 2022 I decided to pick up a new opportunity as a DevOps Engineer at Tallence ag. Here I do have the opportunity to expand
+      In 2022 I decided to pick up a new opportunity as a DevOps Engineer at Tallence AG. Here I do have the opportunity to expand
       my Cloud knowledge and to dive even further into the Kubernetes world. My current project multiple GKE Clusters on the Google Cloud Platform
       which are all managed by Terraform and ArgoCD. We are running our own Application there but also things like Kafka or a Grafana stack.
         - Google Cloud Platform
