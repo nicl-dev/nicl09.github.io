@@ -56,7 +56,7 @@ career-profile:
     DevOps role to which I transitioned to after my first year and it is what I am still happily working as today.
 
     Currently I am working as a DevOps Engineer for Tallence ag where I am responsible for administrating Kubernetes Clusters in the
-    Google Cloud, managed by Terraform and hosted in Gitlab.
+    Google Cloud and AWS managed by Terraform/ArgoCD repositories hosted on Gitlab.
 education:
   - degree: IT systems technician
     university: Heinrich von Allwörden GmbH
