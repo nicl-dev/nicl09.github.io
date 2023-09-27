@@ -129,8 +129,12 @@ publications:
   title: Certifications
   intro:
   papers:
+    - title: "Certified Kubernetes Administrator"
+      link: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/65a43c3e-cdbd-45d5-a51c-0777eee71c1e-niclas-behrendt-dc2190e7-a5a1-403a-bde7-3359af34e239-certificate.pdf"
+      authors: Cloud Native Computing Foundation
+      conference: September 23, 2022
     - title: "Certified Kubernetes Application Developer"
-      link: "https://www.credly.com/badges/52451a3b-42a9-4185-9201-25b93ce67d2e/linked_in_profile"
+      link: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/65a43c3e-cdbd-45d5-a51c-0777eee71c1e-niclas-behrendt-e777f23b-cf30-498c-b577-abc2d154d3d2-certificate.pdf"
       authors: Cloud Native Computing Foundation
       conference: September 11, 2022
     - title: "Massachusetts Institute of Technology 6.00.1x: Introduction to Computer Science and Programming Using Python"
@@ -143,25 +147,37 @@ skills:
 
   toolset:
     - name: Kubernetes
-      level: 90%
+      level: 100%
 
-    - name: Jenkins
-      level: 90%
+    - name: Terraform
+      level: 100%
 
-    - name: Git
-      level: 90%
+    - name: ArgoCD
+      level: 100%
 
-    - name: Prometheus / Grafana
-      level: 85%
+    - name: GitOps
+      level: 100%
 
     - name: Google Cloud Platform
       level: 80%
 
-    - name: Terraform
+    - name: AWS
+      level: 80%
+
+    - name: Linux
+      level: 80%
+
+    - name: Jenkins
+      level: 80%
+
+    - name: Git
       level: 80%
 
     - name: Helm
       level: 80%
+
+    - name: Prometheus / Grafana
+      level: 75%
 
     - name: Docker
       level: 75%
@@ -175,16 +191,10 @@ skills:
     - name: Nexus Repository
       level: 70%
 
-    - name: Linux
-      level: 70%
-
     - name: Bash scripting
       level: 70%
 
     - name: Maven
-      level: 60%
-
-    - name: Agile Development / Scrum
       level: 60%
 
     - name: Python
