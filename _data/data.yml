@@ -68,13 +68,16 @@ experiences:
     company: Tallence ag, Hamburg
     details: |
       In 2022 I decided to pick up a new opportunity as a DevOps Engineer at Tallence AG. Here I do have the opportunity to expand
-      my Cloud knowledge and to dive even further into the Kubernetes world. My current project multiple GKE Clusters on the Google Cloud Platform
-      which are all managed by Terraform and ArgoCD. We are running our own Application there but also things like Kafka or a Grafana stack.
-        - Google Cloud Platform
+      my Cloud knowledge and to dive even further into the Kubernetes world. My current projects comprise of multiple GKE and EKS Clusters on the GCP and AWS
+      which are all managed by Terraform and ArgoCD (GitOps).
         - Kubernetes
+        - AWS
+        - Google Cloud Platform
         - Terraform
+        - Helm
         - ArgoCD
-        - Kafka
+        - Gitlab
+        - CI/CD
   - role: DevOps Engineer
     time: 2020 - 2022
     company: msg nexinsure ag, Hamburg
