@@ -69,10 +69,13 @@ experiences:
       time: 2022 - present
       company: Tallence AG, Hamburg
       details: |
-        Planning and
+        Planning and creating Kubernetes clusters on public Clouds (AWS,GCP,Azure) based on Gitops principles for multiple customers.
+        Mostly used as development platforms my job included everything starting from providing everything for the first `git commit`` and ending at securing and hardening
+        the supply chain.
           - Kubernetes
           - AWS
           - Google Cloud Platform
+          - Azure
           - Terraform
           - Helm
           - ArgoCD
