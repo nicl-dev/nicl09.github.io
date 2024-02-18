@@ -167,13 +167,16 @@ skills:
     - name: GitOps
       level: 100%
 
-    - name: Google Cloud Platform
-      level: 80%
-
     - name: AWS
-      level: 80%
+      level: 90%
 
     - name: Linux
+      level: 90%
+
+    - name: Scrum
+      level: 90%
+
+    - name: Google Cloud Platform
       level: 80%
 
     - name: Jenkins
@@ -209,17 +212,5 @@ skills:
     - name: Python
       level: 60%
 
-    - name: Websphere
+    - name: Azure
       level: 60%
-
-    - name: Postgres
-      level: 50%
-
-    - name: DB2
-      level: 50%
-
-    - name: Oracle DB
-      level: 50%
-
-    - name: Groovy
-      level: 30%
