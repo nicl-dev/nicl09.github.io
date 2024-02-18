@@ -101,15 +101,15 @@ experiences:
 
         During and after the continuous migration from SVN to Git we also started shifting into the container and Kubernetes world. This meant developing Kubernetes
         manifests and Docker images for our application and administrating a small rancher cluster with a couple of dozen nodes.
-          - Development of Kubernetes & Helm manifests
+          - Kubernetes
+          - Helm
           - ArgoCD
           - Deployment pipeline (Maven, Jenkins Library, Groovy, Bash, Nexus)
-          - Ansible automation
-          - Continuous integration
-          - Branching & Releasing
+          - Ansible
+          - CI/CD
           - Building Docker images for our software builds and application servers
-          - Grafana/Prometheus monitoring and alerting with alert manager
-          - Administrating hundreds of application servers (JBoss/Wildfly, WebSphere)
+          - Grafana/Prometheus monitoring and alerting with Alertmanager
+          - Administration of hundreds of application servers (JBoss/Wildfly, WebSphere)
           - Database administration (PostgreSQL, Oracle, DB2)
           - Continuous migration from SVN to Git (Bitbucket) of 1.5M+ commits and more than 300 Git Repositories. Including the entire history and infrastructure (Nexus/Jenkins/Bitbucket etc.)
     - role: Associate IT Consultant
