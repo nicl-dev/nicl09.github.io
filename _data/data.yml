@@ -70,7 +70,7 @@ experiences:
       company: Tallence AG, Hamburg
       details: |
         Planning and creating Kubernetes clusters on public Clouds (AWS,GCP,Azure) based on Gitops principles for multiple customers.
-        Mostly used as development platforms my job included everything starting from providing everything for the first `git commit`` and ending at securing and hardening
+        These were mostly used as development platforms and my job included everything starting from providing everything for the first `git commit`` and ending at securing and hardening
         the supply chain.
           - Kubernetes
           - AWS
@@ -109,7 +109,7 @@ experiences:
       time: 2019 - 2020
       company: msg nexinsure ag, Hamburg
       details: |
-        My first year mainly consisted of learning the software development process from scratch. Our team was involved in every part of the process. 
+        My first year mainly consisted of learning the software development process from scratch. Our team was involved in every part of the process.
         From the first commit and push to the repository, through the following deployment to our artifact repository and the deployment to our different application servers to the delivery to our customers
         we were responsible for the entire continuous integration.
         We also installed and administrated the different test-, dev- and prod-stages and administrated the entire infrastructure related to our development process and build pipeline.
