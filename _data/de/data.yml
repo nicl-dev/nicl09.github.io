@@ -55,60 +55,78 @@ education:
     time: 2016 - 2019
     details:
 experiences:
-  - role: DevOps Ingenieur
-    time: 2020 - Heute
-    company: msg nexinsure ag, Hamburg
-    details: |
-      Im Jahr 2020 habe ich die Gelegenheit bekommen, in meine erste DevOps Rolle zu schlüpfen. Man hat mir die Gelegenheit gegeben, unsere Application-Server Installationen
-      on-premise zu automatisieren. Das beinhaltete die Installation unserer eigenen Software, dazugehörigen Datenbanken und einigen Thirt Party Applikationen. Das gesamte Projekt
-      habe ich mit Hilfe von Ansible und teilweise auch AWX bzw. Ansible Tower  umgesetzt. Die dabei entstandenen Rollen sind auch heute noch aktiv und Basis für unsere gesamte on-premise Automatisierung.
+  title: Erfahrungen
+  info:
+    - role: DevOps Engineer
+      time: 2022 - present
+      company: Tallence AG, Hamburg
+      details: |
+        Planung und Erstellung von Kubernetes Clustern bei öffentlichen Cloud-Anbietern (AWS,GCP,Azure) basierend auf Gitops Prinzipien für mehrere Kunden.
+        Diese werden vorwiegend als Entwicklungsplattformen genutzt und meine Arbeit beinhaltet alles beginnend vom ersten `git commit` bis hin zur Absicherung der Supply-Chain gegen
+        Cyberangriffe.
+          - Kubernetes
+          - AWS
+          - Google Cloud Platform
+          - Azure
+          - Terraform
+          - Helm
+          - ArgoCD
+          - Gitlab
+          - CI/CD
+    - role: DevOps Ingenieur
+      time: 2020 - Heute
+      company: msg nexinsure ag, Hamburg
+      details: |
+        Im Jahr 2020 habe ich die Gelegenheit bekommen, in meine erste DevOps Rolle zu schlüpfen. Man hat mir die Gelegenheit gegeben, unsere Application-Server Installationen
+        on-premise zu automatisieren. Das beinhaltete die Installation unserer eigenen Software, dazugehörigen Datenbanken und einigen Thirt Party Applikationen. Das gesamte Projekt
+        habe ich mit Hilfe von Ansible und teilweise auch AWX bzw. Ansible Tower  umgesetzt. Die dabei entstandenen Rollen sind auch heute noch aktiv und Basis für unsere gesamte on-premise Automatisierung.
 
-      Anschließend wurde ich damit beauftragt unser gesamtes SCM von Subversion nach Git umzuziehen. Wir haben mit Hilfe von einem existierenden Tool und einigen Skripten mehr als 300 Repositories
-      von SVN nach Git (Bitbucket) umgezogen. Diese Gelegenheit haben wir gleichzeitig dafür genutzt von Jenkins Jobs auf Jenkins Pipelines umzustellen, inklusive unserer eigenen Jenkins Library auf Groovy Basis und scripted Jenkinsfiles.
+        Anschließend wurde ich damit beauftragt unser gesamtes SCM von Subversion nach Git umzuziehen. Wir haben mit Hilfe von einem existierenden Tool und einigen Skripten mehr als 300 Repositories
+        von SVN nach Git (Bitbucket) umgezogen. Diese Gelegenheit haben wir gleichzeitig dafür genutzt von Jenkins Jobs auf Jenkins Pipelines umzustellen, inklusive unserer eigenen Jenkins Library auf Groovy Basis und scripted Jenkinsfiles.
 
-      Während und nach der kontinuierlichen Migration von SVN nach Git haben wir außerdem damit begonnen, uns in die Container und Kubernetes Welt zu entwickeln. Konkret bedeutet das,
-      dass wir unsere ersten Docker Images und Kubernetes Manifeste für unsere Anwendung entwickelt und ein kleines Rancher Cluster mit ein paar Dutzend Nodes betrieben haben. Vor kurzem
-      haben wir ebenfalls damit begonnen, Helm Charts zu schreiben und zu deployen.
-        - Development von Kubernetes & Helm Manifesten
-        - ArgoCD
-        - Deployment pipeline (Maven, Jenkins Library, Groovy, Bash, Nexus)
-        - Ansible automation
-        - Continuous integration
-        - Branching & Releasing
-        - Building Docker images for our software builds and application servers
-        - Grafana/Prometheus monitoring and alerting with alert manager
-        - Administrating hundreds of application servers (JBoss/Wildfly, WebSphere)
-        - Database administration (PostgreSQL, Oracle, DB2)
-        - Continuous migration from SVN to Git (Bitbucket) of 1.5M+ commits and more than 300 Git Repositories. Including the entire history and infrastructure (Nexus/Jenkins/Bitbucket etc.)
-  - role: Associate IT Consultant
-    time: 2019 - 2020
-    company: msg nexinsure ag, Hamburg
-    details: |
-      Mein erstes Jahr bestand hauptsächlich daraus, den Softwareentwicklungsprozess von Grund auf zu erlernen. Unser Team war dabei in jeden Teil des Prozesses involviert.
-      Vom ersten Commit und Push ins Repository, über das anschließende Deployment in unser Artefakt Repository und das Deployment auf die verschiedenen Application-Server,
-      bis hin zur Auslieferung an den Kunden waren wir für die komplette kontinuierliche Integration zuständig.
-      Außerdem haben wir mehrere hundert Test-, Dev- und Prod-Stages sowie die Gesamte für die Softwareentwicklung benötigte Infrastruktur installiert und administriert.
+        Während und nach der kontinuierlichen Migration von SVN nach Git haben wir außerdem damit begonnen, uns in die Container und Kubernetes Welt zu entwickeln. Konkret bedeutet das,
+        dass wir unsere ersten Docker Images und Kubernetes Manifeste für unsere Anwendung entwickelt und ein kleines Rancher Cluster mit ein paar Dutzend Nodes betrieben haben. Vor kurzem
+        haben wir ebenfalls damit begonnen, Helm Charts zu schreiben und zu deployen.
+          - Development von Kubernetes & Helm Manifesten
+          - ArgoCD
+          - Deployment pipeline (Maven, Jenkins Library, Groovy, Bash, Nexus)
+          - Ansible automation
+          - Continuous integration
+          - Branching & Releasing
+          - Building Docker images for our software builds and application servers
+          - Grafana/Prometheus monitoring and alerting with alert manager
+          - Administrating hundreds of application servers (JBoss/Wildfly, WebSphere)
+          - Database administration (PostgreSQL, Oracle, DB2)
+          - Continuous migration from SVN to Git (Bitbucket) of 1.5M+ commits and more than 300 Git Repositories. Including the entire history and infrastructure (Nexus/Jenkins/Bitbucket etc.)
+    - role: Associate IT Consultant
+      time: 2019 - 2020
+      company: msg nexinsure ag, Hamburg
+      details: |
+        Mein erstes Jahr bestand hauptsächlich daraus, den Softwareentwicklungsprozess von Grund auf zu erlernen. Unser Team war dabei in jeden Teil des Prozesses involviert.
+        Vom ersten Commit und Push ins Repository, über das anschließende Deployment in unser Artefakt Repository und das Deployment auf die verschiedenen Application-Server,
+        bis hin zur Auslieferung an den Kunden waren wir für die komplette kontinuierliche Integration zuständig.
+        Außerdem haben wir mehrere hundert Test-, Dev- und Prod-Stages sowie die Gesamte für die Softwareentwicklung benötigte Infrastruktur installiert und administriert.
 
-      In der zweiten Hälfte meines ersten Jahres habe ich mich dazu entschieden, unser Monitoring neu aufzubauen und dafür einen Stack aus Prometheus/Grafana/Alertmanager zu nutzen. Dieser Stack
-      ist auch heute noch aktiv und wird von mehr als 400 Kollegen genutzt.
-        - Installation, Konfiguration, Administration und Troubleshooting für hunderte von Jboss/Wildfly/WebSphere/Liberty Application Server auf Windows und Linux Maschinen
-        - Installation, Konfiguration, Administration und Troubleshooting für Postgres, Oracle und DB2 Datenbanken 
-        - CI Pipelines mit Jenkins, SVN und Bash
-        - Monitoring der Infrastruktur und Alertmanager mit Prometheus/Grafana/Alertmanager
-        - Automatisiertes Releasing und Branching mit Maven, Git SVN, Bash Scripting, Jenkins und Nexus Artefakt Repository, inklusive Datenbanken.
-  - role: IT Systemelektroniker
-    time: 2015 - 2019
-    company: Heinrich von Allwörden GmbH, Mölln
-    details: |
-      Während meiner 4 Jahre bei Heinrich von Allwörden war ich hauptsächlich verantwortlich für die Administration der Windows Infrastruktur der Firma, sowie das
-      Netzwerk der Produktion.
+        In der zweiten Hälfte meines ersten Jahres habe ich mich dazu entschieden, unser Monitoring neu aufzubauen und dafür einen Stack aus Prometheus/Grafana/Alertmanager zu nutzen. Dieser Stack
+        ist auch heute noch aktiv und wird von mehr als 400 Kollegen genutzt.
+          - Installation, Konfiguration, Administration und Troubleshooting für hunderte von Jboss/Wildfly/WebSphere/Liberty Application Server auf Windows und Linux Maschinen
+          - Installation, Konfiguration, Administration und Troubleshooting für Postgres, Oracle und DB2 Datenbanken 
+          - CI Pipelines mit Jenkins, SVN und Bash
+          - Monitoring der Infrastruktur und Alertmanager mit Prometheus/Grafana/Alertmanager
+          - Automatisiertes Releasing und Branching mit Maven, Git SVN, Bash Scripting, Jenkins und Nexus Artefakt Repository, inklusive Datenbanken.
+    - role: IT Systemelektroniker
+      time: 2015 - 2019
+      company: Heinrich von Allwörden GmbH, Mölln
+      details: |
+        Während meiner 4 Jahre bei Heinrich von Allwörden war ich hauptsächlich verantwortlich für die Administration der Windows Infrastruktur der Firma, sowie das
+        Netzwerk der Produktion.
 
-      Außerdem waren wir für das Kassensystem in mehr als 400 Verkaufsläden zuständig.
+        Außerdem waren wir für das Kassensystem in mehr als 400 Verkaufsläden zuständig.
 
-        - Windows Administration
-        - Beaufsichtigung des Produktionsnetzwerks
-        - Vectron Kassensystem Administration und Installation (Remote und vor Ort)
-        - Erfolgreiche Umstellung der gesamten Büro-Infrastruktur von Windows auf virtualisierte Igel OS PCs (Abschlussprojekt).
+          - Windows Administration
+          - Beaufsichtigung des Produktionsnetzwerks
+          - Vectron Kassensystem Administration und Installation (Remote und vor Ort)
+          - Erfolgreiche Umstellung der gesamten Büro-Infrastruktur von Windows auf virtualisierte Igel OS PCs (Abschlussprojekt).
 publications:
   title: Zertifikate
   intro:
