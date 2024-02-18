@@ -55,15 +55,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Hello, and nice to meet you! My name is Niclas. I started my career in IT as an apprentice IT system technician.
-    However, my dream was always to move into software development rather than the hardware field of our profession.
-
-    That's why I decided to continue my career at msg nexinsure ag in Hamburg. In my first year at the company I was given
-    the opportunity to learn many aspects about software development. This allowed me to discover my passion for the
-    DevOps role to which I transitioned to after my first year and it is what I am still happily working as today.
-
-    Currently I am working as a DevOps Engineer for Tallence ag where I am responsible for administrating Kubernetes Clusters in the
-    Google Cloud and AWS managed by Terraform/ArgoCD repositories hosted on Gitlab.
+    Moin! My name is Niclas and I am a DevOps Engineer with 5 years of experience.
 education:
   - degree: IT systems technician
     university: Heinrich von Allwörden GmbH
