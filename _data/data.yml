@@ -29,21 +29,28 @@ sidebar:
   pdf: /cv_nicl_dev.pdf
 
   languages:
-    - idiom: German
-      level: Native
+    title: Languages
+    info:
+      - idiom: German
+        level: Native
 
-    - idiom: English
-      level: Fluent
+      - idiom: English
+        level: Fluent
 
   interests:
-    - item: Diving
-      link:
+    title: Interests
+    info:
+      - item: Homelab
+        link:
 
-    - item: Mountainbiking
-      link:
+      - item: Diving
+        link:
 
-    - item: Cooking
-      link:
+      - item: Reading
+        link:
+
+      - item: Cooking
+        link:
 
 career-profile:
   title: Career Profile
