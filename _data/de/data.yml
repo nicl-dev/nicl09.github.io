@@ -40,6 +40,9 @@ sidebar:
   interests:
     title: Interessen
     info:
+      - item: Homelab
+        link:
+
       - item: Tauchen
         link:
 

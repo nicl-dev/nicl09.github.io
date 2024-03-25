@@ -15,7 +15,7 @@ sidebar:
   email: niclas.behrendt@nicl.dev
   phone:
   citizenship: German
-  website: German CV #do not add http://
+  website: #do not add http://
   linkedin: niclas-behrendt
   xing: Niclas_Behrendt
   github: nicl-dev
@@ -69,36 +69,33 @@ experiences:
       company: Tallence AG, Hamburg
       details: |
         Planning and creating Kubernetes clusters on public Clouds (AWS,GCP,Azure) based on Gitops principles for multiple customers.
-        These were mostly used as development platforms and my job included everything starting from providing everything for the first `git commit`` and ending at securing and hardening
-        the supply chain.
+        These were partly used as development platforms and partly as high-available production clusters. My job included everything starting from providing everything for the first `git commit` and ending at securing and hardening
+        the supply chain and clusters.
           - Kubernetes
           - AWS
           - Google Cloud Platform
-          - Azure
           - Terraform
           - Helm
           - ArgoCD
           - Gitlab
           - CI/CD
+          - Azure
     - role: DevOps Engineer
       time: 2020 - 2022
       company: msg nexinsure ag, Hamburg
       details: |
-        2020 I started shifting into my first DevOps role. I was given the opportunity to automate our application server installation. That meant automating
-        the installation of our own software, corresponding databases and a couple of third party applications. The entire project was developed with Ansible.
-        These roles are still in use today and our basement for our entire on-premise automation.
+        2020 I was given the opportunity to automate our application server installation. That meant automating
+        the installation of our own software, corresponding databases and third party applications. The entire project was developed with Ansible and Terraform.
 
-        Afterwards I was commissioned to migrate our entire code base from Subversion to Git. We succesfully migrated more than 300 repostiories from SVN to Git.
+        I was also commissioned to migrate our entire code base from Subversion to Git. We succesfully migrated more than 300 repostiories from SVN to Git.
         We took that opportunity to also move on from Jenkins Jobs to Jenkins Pipelines, including our own Jenkins Library.
 
-        During and after the continuous migration from SVN to Git we also started shifting into the container and Kubernetes world. This meant developing Kubernetes
-        manifests and Docker images for our application and administrating a small rancher cluster with a couple of dozen nodes.
+        During and after the continuous migration from SVN to Git we also started shifting into the container and Kubernetes world. This meant deploying our legacy applications and administrating a rancher cluster.
           - Kubernetes
           - Helm
           - ArgoCD
-          - Deployment pipeline (Maven, Jenkins Library, Groovy, Bash, Nexus)
+          - CI/CD (Maven, Jenkins Library, Groovy, Bash, Nexus)
           - Ansible
-          - CI/CD
           - Building Docker images for our software builds and application servers
           - Grafana/Prometheus monitoring and alerting with Alertmanager
           - Administration of hundreds of application servers (JBoss/Wildfly, WebSphere)
@@ -108,13 +105,12 @@ experiences:
       time: 2019 - 2020
       company: msg nexinsure ag, Hamburg
       details: |
-        My first year mainly consisted of learning the software development process from scratch. Our team was involved in every part of the process.
-        From the first commit and push to the repository, through the following deployment to our artifact repository and the deployment to our different application servers to the delivery to our customers
+        My first year mainly consisted of learning the internal software development process from scratch. Our team was involved in every part of the process.
+        From the first commit and push to the repository, through the following deployment to our artifact repository and the deployment to our and the customers different application servers
         we were responsible for the entire continuous integration.
         We also installed and administrated the different test-, dev- and prod-stages and administrated the entire infrastructure related to our development process and build pipeline.
 
-        In the second half of my first year I decided to rebuild our monitoring stack and used a Prometheus/Grafana/Alertmanager stack for this purpose. This stack is still active
-        today and used by more than 400 colleagues.
+        I also decided to rebuild our monitoring stack and used a Prometheus/Grafana/Alertmanager stack for this purpose.
           - Installation, configuration, administration and troubleshooting for hundreds of Jboss/Wildfly/WebSphere/Liberty Application Servers on Linux and Windows machines
           - Installation, configuration, administration and troubleshooting for PostgresSQL, Oracle and DB2
           - CI Pipelines with Jenkins and SVN
@@ -128,8 +124,8 @@ experiences:
         We also managed the factory network and cash systems in more than 400 stores.
           - Windows administration
           - Factory network supervision
-          - Vectron cash system administration and installation (remote and in person)
-          - Succesfully transitioned the entire office infrastructure from Windows to Igel OS virtual desktops (finals project)
+          - Vectron cash system administration and installation
+          - Succesfully transitioned the entire office infrastructure from Windows to IgelOS virtual desktops (finals project)
 publications:
   title: Certifications
   intro:
