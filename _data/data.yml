@@ -70,7 +70,7 @@ experiences:
       details: |
         Planning and creating Kubernetes clusters on public Clouds (AWS,GCP,Azure) based on Gitops principles for multiple customers.
         These were partially used as development platforms and partially as high-available production clusters. My job included everything starting from providing the necessary backend and pipelines for the first `git commit` and ending at securing and hardening
-        the supply chain and clusters.
+        the supply chain and clusters. For example, we are responsible for the billing services of one of Germanys biggest mobile service providers.
           - Kubernetes
           - AWS
           - Google Cloud Platform
