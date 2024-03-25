@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Niclas Behrendt
   tagline: DevOps Engineer
-  avatar: me.jpg
+  avatar:
 
   # Sidebar links
   email: niclas.behrendt@nicl.dev
