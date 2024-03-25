@@ -29,26 +29,30 @@ sidebar:
   pdf: /cv_nicl_dev_de.pdf
 
   languages:
-    - idiom: Deutsch
-      level: Muttersprache
+    title: Sprachen
+    info:
+      - idiom: Deutsch
+        level: Muttersprache
 
-    - idiom: Englisch
-      level: Fließend
+      - idiom: Englisch
+        level: Fließend
 
   interests:
-    - item: Tauchen
-      link:
+    title: Interessen
+    info:
+      - item: Tauchen
+        link:
 
-    - item: Mountainbiken
-      link:
+      - item: Mountainbiken
+        link:
 
-    - item: Kochen
-      link:
+      - item: Kochen
+        link:
 
 career-profile:
   title: Karriere
   summary: |
-    Moin! Ich bin Niclas, DevOps Engineer mit 5 Jahren Erfahrung.
+    Moin! Ich bin Niclas, DevOps Engineer mit ~5 Jahren Erfahrung in Kubernetes, Automatisierung, CI/CD uvm.
 education:
   - degree: IT Systemelektroniker
     university: Heinrich von Allwörden GmbH
