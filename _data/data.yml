@@ -69,7 +69,7 @@ experiences:
       company: Tallence AG, Hamburg
       details: |
         Planning and creating Kubernetes clusters on public Clouds (AWS,GCP,Azure) based on Gitops principles for multiple customers.
-        These were partly used as development platforms and partly as high-available production clusters. My job included everything starting from providing everything for the first `git commit` and ending at securing and hardening
+        These were partially used as development platforms and partially as high-available production clusters. My job included everything starting from providing everything for the first `git commit` and ending at securing and hardening
         the supply chain and clusters.
           - Kubernetes
           - AWS
