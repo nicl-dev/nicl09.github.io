@@ -6,12 +6,16 @@ layout: de
 {% include de/career-profile.html %}
 
 {% unless site.data.de.data.sidebar.education %}
-  {% include de/education.html %}
+{% include de/education.html %}
 {% endunless %}
 
 {% include de/experiences.html %}
 
+{% include de/certifications.html %}
+
 {% include de/projects.html %}
+
+{% include de/oss-contributions.html %}
 
 {% include de/publications.html %}
 
