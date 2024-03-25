@@ -135,12 +135,16 @@ publications:
   title: Zertifikate
   intro:
   papers:
+    - title: "Certified Kubernetes Security Specialist"
+      link: "https://www.credly.com/badges/d228b3da-fcf8-45ed-97cc-12fc2f552f7d"
+      authors: Cloud Native Computing Foundation
+      conference: February 04, 2024
     - title: "Certified Kubernetes Administrator"
-      link: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/65a43c3e-cdbd-45d5-a51c-0777eee71c1e-niclas-behrendt-dc2190e7-a5a1-403a-bde7-3359af34e239-certificate.pdf"
+      link: "https://www.credly.com/badges/019536b5-cc12-4436-8439-cc6d1c253a57"
       authors: Cloud Native Computing Foundation
       conference: September 23, 2023
     - title: "Certified Kubernetes Application Developer"
-      link: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/65a43c3e-cdbd-45d5-a51c-0777eee71c1e-niclas-behrendt-e777f23b-cf30-498c-b577-abc2d154d3d2-certificate.pdf"
+      link: "https://www.credly.com/badges/52451a3b-42a9-4185-9201-25b93ce67d2e"
       authors: Cloud Native Computing Foundation
       conference: September 11, 2022
     - title: "Massachusetts Institute of Technology 6.00.1x: Introduction to Computer Science and Programming Using Python"

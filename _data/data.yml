@@ -135,15 +135,15 @@ publications:
   intro:
   papers:
     - title: "Certified Kubernetes Security Specialist"
-      link: "https://www.credly.com/badges/d228b3da-fcf8-45ed-97cc-12fc2f552f7d/public_url"
+      link: "https://www.credly.com/badges/d228b3da-fcf8-45ed-97cc-12fc2f552f7d"
       authors: Cloud Native Computing Foundation
       conference: February 04, 2024
     - title: "Certified Kubernetes Administrator"
-      link: "https://www.credly.com/earner/earned/badge/019536b5-cc12-4436-8439-cc6d1c253a57"
+      link: "https://www.credly.com/badges/019536b5-cc12-4436-8439-cc6d1c253a57"
       authors: Cloud Native Computing Foundation
       conference: September 23, 2023
     - title: "Certified Kubernetes Application Developer"
-      link: "https://www.credly.com/earner/earned/badge/52451a3b-42a9-4185-9201-25b93ce67d2e"
+      link: "https://www.credly.com/badges/52451a3b-42a9-4185-9201-25b93ce67d2e"
       authors: Cloud Native Computing Foundation
       conference: September 11, 2022
     - title: "Massachusetts Institute of Technology 6.00.1x: Introduction to Computer Science and Programming Using Python"
